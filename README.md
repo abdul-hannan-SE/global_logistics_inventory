@@ -116,12 +116,6 @@ Document your real routes here. Examples:
 
 ---
 
-## License
-
-Proprietary / MIT / other — **you choose** and update this section.
-
----
-
 ## Author
 
 **Abdul Hannan** — Backend & full-stack development.
