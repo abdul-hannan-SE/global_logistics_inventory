@@ -78,16 +78,6 @@ Preview (paths are relative to repo root; same layout as on [GitHub](https://git
 
 ---
 
-## API overview
-
-Document your real routes here. Examples:
-
-- `GET/POST /api/shipments` — list, create, filters  
-- `PATCH /api/shipments/bulk` — bulk operations  
-- `GET/POST /api/vessels`, `/api/customers`  
-- `GET /api/analytics/...`  
-
----
 
 ## Author
 
