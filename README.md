@@ -37,33 +37,6 @@ Admin portal and APIs for managing vehicle shipments from yards through vessels 
 
 ---
 
-## Getting started
-
-```bash
-git clone https://github.com/abdul-hannan-SE/global_logistics_inventory.git
-cd global_logistics_inventory
-npm install
-```
-
-Create a `.env` (or `.env.local`) with your real values, for example:
-
-```env
-MONGODB_URI=
-AWS_ACCESS_KEY_ID=
-AWS_SECRET_ACCESS_KEY=
-AWS_REGION=
-AWS_S3_BUCKET=
-# JWT / session secrets, etc.
-```
-
-```bash
-npm run dev
-```
-
-Adjust scripts (`dev`, `build`, `start`) to match your `package.json`.
-
----
-
 ## Screenshots
 
 All images live under [`sreenshots/`](https://github.com/abdul-hannan-SE/global_logistics_inventory/tree/main/sreenshots) on the default branch.
